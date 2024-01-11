@@ -1,0 +1,14 @@
+				footer{
+				jusitfy-items: space-between;
+				
+				} 
+				
+				a{
+				justify-items: space-between;
+				text-align: center;
+				text-decoration: none;
+				gap: 100px;
+				padding: 20px;
+				margin-left: 30px;
+				color: gray;
+				}
