@@ -1,0 +1,12 @@
+	body{
+		margin: 0;
+		background-color: #eee;
+		}
+		
+		p.heading{
+				padding-left: 260px;
+				font-family: arial;
+				color: gray;
+				font-weight: bold;
+				font-size: 20px;
+				}
